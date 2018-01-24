@@ -19,4 +19,3 @@ age = input("What is your age? ")
 
 # Prints a welcoming statement to the user.
 print("\nHi there,", name,"! You are", age, "years old.")
-
