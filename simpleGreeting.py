@@ -2,8 +2,8 @@
 Alexandra Thompson
 Jan 23rd 2018
 simpleGreeting.py
-This program will ask the user to input a series of information using different
-data types. The program will create a custom message to the user.
+This program will ask the user to input a series of information. 
+The program will create a custom message to the user.
 
 Notice this program works great, only if the input is geniune to the
 question. This program can be easily be abused as letters are a valid input for
